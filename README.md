@@ -5,3 +5,4 @@
 <br>
 
 **Live Preview - https://vigneshwaranwh.github.io/Word-Counter/**
+[ASCII Table.pdf](https://github.com/vigneshwaranwh/Word-Counter/files/10575555/ASCII.Table.pdf)
